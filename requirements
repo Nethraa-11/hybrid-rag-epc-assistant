@@ -1,0 +1,12 @@
+flask
+fastapi
+uvicorn
+openai
+langchain
+faiss-cpu
+pinecone-client
+sentence-transformers
+pandas
+numpy
+streamlit
+psycopg2
